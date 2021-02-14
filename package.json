@@ -4,7 +4,8 @@
   "description": "package info",
   "main": "index.js",
   "scripts": {
-    "test": "¡"
+    "test": "¡",
+    "start": "node index.js"
   },
   "author": "Amber Mac #2990",
   "license": "ISC",
